@@ -1,4 +1,3 @@
 # Machine-Learning-project 
 
-This project involves developing a predictive model.
-The process includes data cleaning, exploratory data analysis (EDA), feature engineering, model building, evaluation, and deployment. The goal is to provide accurate and actionable insights to reduce loan default rates.
+This end-to-end machine learning project involves building a predictive model to solve a specific business problem. The project encompasses data preprocessing, exploratory data analysis (EDA), feature engineering, model selection, training, and evaluation.
